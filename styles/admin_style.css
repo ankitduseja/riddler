@@ -1,0 +1,56 @@
+.mysty1{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#000000;
+}
+
+.mysty2{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+color:#FFFFFF;
+}
+
+
+
+.mysty4{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#000000;
+}
+
+ 
+
+.mysty6{
+background-color:#A9B63D;
+}
+
+ 
+ 
+
+.tab_sty1{
+border-left:1px solid #000000;
+border-right:1px solid #000000;
+border-top:1px solid #000000;
+border-bottom:1px solid #000000;
+}
+
+ 
+
+.a12{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FFFFFF;
+text-align:justify;
+font-weight:bold;
+text-decoration:none;
+}
+.a12:hover{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#99CC00;
+text-align:justify;
+font-weight:bold;
+text-decoration:none;
+}
+
